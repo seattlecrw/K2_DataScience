@@ -5,3 +5,6 @@ This repository is created to hold all assignments and projects for completion o
 * Python_CS_Notebooks
 * Python_Data_Analysis
 * Mathematics
+
+## Exploratory Data Analysis
+* Getting and Cleaning Data
