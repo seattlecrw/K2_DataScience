@@ -1,6 +1,6 @@
 # Foundations
 
-## Python_CS_Notebooks
+## Python_CS
   * E01.1_Temp_converter.ipynb
   * E01.2_Interest_calculator.ipynb
   * E02.1_If_else.ipynb
