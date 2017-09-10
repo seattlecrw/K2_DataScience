@@ -6,3 +6,5 @@
   - regex/python_regex_walkthrough.ipynb
 * Easy data cleaning exercise
   - easy/yelp_challenge_easy.ipynb
+* Regular data cleaning exercise
+  - regular/cleaning_exercises_all-regular.ipynb (I had more trouble understanding what the instructions were asking for in this assignment, so more of the solutions came from the solution video than in previous assignments.)
