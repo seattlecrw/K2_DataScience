@@ -9,3 +9,4 @@ This repository is created to hold all assignments and projects for completion o
 ## Exploratory Data Analysis
 * Getting and Cleaning Data
 * Statistical Inference
+* Summarizing and Visualizing Data
