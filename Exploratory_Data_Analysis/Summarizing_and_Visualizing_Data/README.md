@@ -12,6 +12,7 @@
   - 'topNations.png'
   - 'weightlifting.png'
   - 'height_distribution.png'
+  - 'top_countries.csv'
   - 'countries_map.png'
   - 'MaleHeightBySport.png'
   - 'FemaleHeightBySport.png'
