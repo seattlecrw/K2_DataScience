@@ -18,4 +18,6 @@
   - 'FemaleHeightBySport.png'
 
 * Regular EDA Assignment
+  - 'images/loglin.png'
   - 'eda_all_problems.ipynb'
+  
