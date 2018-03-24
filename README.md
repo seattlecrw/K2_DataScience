@@ -8,3 +8,4 @@ This repository is created to hold all assignments and projects for completion o
 * Project1
 
 ## Exploring Data
+* Databases
