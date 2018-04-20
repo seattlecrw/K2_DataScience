@@ -61,5 +61,5 @@
   * Calculus/3.Calculus_Area_Between_Curves.ipynb
   * Calculus/4.Calculus_Curve_Length.ipynb
 
-## Project1
+## Project1 - Object-Oriented Game
   * blackjack.py
