@@ -63,3 +63,6 @@
 
 ## Project1 - Object-Oriented Game
   * blackjack.py
+
+## Job Prep Coding Problems
+  * coding-challenges.ipynb
